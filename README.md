@@ -34,4 +34,5 @@ ex) 1장_1절_-er로_끝나는_이름을_사용하지_마세요_정재엽
 ex) 정재엽.md
 ```
 
+---
 > Influenced by https://github.com/woowacourse-moltudy/elegant-object-study
