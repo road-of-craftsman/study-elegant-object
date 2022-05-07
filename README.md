@@ -2,7 +2,7 @@
 - [책 정보](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791187497219)
 
 ## 📆기간
-- 일정: 2022-05-09(월) ~ 2022-06-09(목)
+- 일정: 2022-05-09(월) ~ 2022-06-08(수)
 
 ## 👨‍👩‍👦 인원
 - 총 N명 
